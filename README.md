@@ -1,7 +1,7 @@
 # Language Modeling 
 variants
 
-1. Statistical N-Gram LM 
+1. Statistical N-Gram LM v01
 - + Sampling with temperature
 
 2. Statistical N-Gram LM v02 
